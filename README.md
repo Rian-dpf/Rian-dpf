@@ -7,5 +7,5 @@
 
 ### :wave: Sobre mim
 
-#### Um estudante de desenvolvimento web pela formação Node.js focado em aprender tecnologias back-end e front-end e desenvolver diferentes tipos de aplicações, estou sempre procurando aprender cada dia mais. 📚
+#### Sou estudante de Engenharia de SoftWare pela UniStac e atualente trabalho como assistente de sistemas no hospital Unimed Criciúma.📚
 
