@@ -7,5 +7,5 @@
 
 ### :wave: Sobre mim
 
-#### Sou estudante de Engenharia de SoftWare pela UniStac e atualente trabalho como assistente de sistemas no hospital Unimed Criciúma.📚
+#### Sou estudante de Engenharia de SoftWare pela UniStac e atualmente trabalho como assistente de sistemas no hospital Unimed Criciúma.📚
 
